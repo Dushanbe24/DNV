@@ -1,0 +1,9 @@
+com\dnv_gl\FirstClass.class
+com\dnv_gl\utilities\ReusableMethods.class
+com\dnv_gl\pages\LoginPage.class
+com\dnv_gl\utilities\ConfigurationReader.class
+com\dnv_gl\tests\TestBase.class
+com\dnv_gl\utilities\Driver.class
+com\dnv_gl\tests\LoginTest.class
+com\dnv_gl\pages\InsightsPage.class
+com\dnv_gl\tests\InsightsTest.class
