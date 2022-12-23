@@ -2,7 +2,7 @@ package com.dnv_gl.tests;
 
 import com.dnv_gl.utilities.ConfigurationReader;
 import org.testng.annotations.Test;
-//Some changes what i did
+//Some
 
 public class InsightsTest  extends TestBase{
 
